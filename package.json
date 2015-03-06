@@ -1,0 +1,20 @@
+{
+  "author": "Fernando cea",
+  "name": "timing-module",
+  "description": "CommongJS module which wraps Navigation Time API",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/krosti/timing-module"
+  },
+  "main": "timing-module",
+  "keywords": [
+    "timing",
+    "navigation",
+    "browser",
+    "headless"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
