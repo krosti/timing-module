@@ -2,7 +2,7 @@
   "author": "Fernando Cea",
   "name": "timing-module",
   "description": "CommongJS module which wraps Navigation Time API",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/krosti/timing-module"
   },
