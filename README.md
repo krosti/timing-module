@@ -5,12 +5,12 @@ CommonJS module which wraps Navigation Timing API. This module it's actually reu
 the [timing.js](https://github.com/addyosmani/timing.js/).
 
 
-##How to install
+## How to install
 ```
 $ npm install timing-module
 ```
 
-##How to use
+## How to use
 ```javascript
 var timing = require('timing-module');
 ```
@@ -19,9 +19,9 @@ var timing = require('timing-module');
 ---
 
 
-##API
+## API
 
-###getTimes()
+### getTimes()
 Outputs extended measurements using Navigation Timing API.
 
   * @param  Object opts Options (simple (bool) - opts out of full data view)
@@ -31,7 +31,7 @@ Outputs extended measurements using Navigation Timing API.
 timing.getTimes(); // [object Object]
 ```
 
-###printTable()
+### printTable()
 
 Uses ```console.table()``` to print a complete table of timing information.
 
@@ -41,7 +41,7 @@ Uses ```console.table()``` to print a complete table of timing information.
 timing.printTable();
 ```
 
-###printSimpleTable()
+### printSimpleTable()
 
 Uses ```console.table()``` to print a summary table of timing information.
 
